@@ -11,4 +11,4 @@ You can intall all the dependencies using `pip install -r requirements.txt`.
 I used [Sentiment140](http://help.sentiment140.com/for-students) which has more than 200000 tweets with classes sad and happy.
 
 ### Accuracy
-The funal model has 90% accuracy on test set.
+The final model has 90% accuracy on the test set.
